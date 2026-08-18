@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-bp49ls.deposit1casino.co.nz/sitemap.xml
